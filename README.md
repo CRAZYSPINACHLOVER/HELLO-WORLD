@@ -2,4 +2,4 @@
 SAY HELLO TO GIT-HUB WORLD
 
 WITHOUT ME, IT'S JUST AWESO!
-![Alt text](https://github.com/CRAZYSPINACHLOVER/IMGFILES/blob/master/WeChat%20Image_20190221092408.jpg)
+![Alt text](https://github.com/CRAZYSPINACHLOVER/IMGFILES/blob/ca35e18be5e0ff19fb5adf6c28679bb148973223/WeChat%20Image_20190221092408.jpg)
